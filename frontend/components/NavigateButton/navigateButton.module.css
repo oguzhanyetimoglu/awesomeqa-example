@@ -1,0 +1,45 @@
+.iconFrame {
+    display: flex;
+    width: 51px;
+    height: 50px;
+    padding: 6px 6px 6px 7px;
+    justify-content: center;
+
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(93, 80, 195, 0.20);
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+    height: 40%;
+}
+
+.textContent {
+    align-self: stretch;
+    text-align: left;
+    color: #FFF;
+    font-size: 24px;
+    font-family: -apple-system, BlinkMacSystemFont, Roboto;
+    text-transform: none;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 116.7%;
+}
+
+.NavButton {
+    display: flex;
+    width: 306px;
+    height: 130px;
+    padding: 16px 0px 16px 16px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    border-radius: 8px;
+    border: 1px solid #302F36;
+    background: #1C1C1F;
+}

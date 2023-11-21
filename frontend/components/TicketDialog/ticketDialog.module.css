@@ -1,0 +1,29 @@
+.statusPaperOpen {
+    background-color: #FF5252;
+    padding: 3px 18px;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+.statusPaperClosed {
+    background-color: #4CAF50;
+    padding: 3px 18px;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+.statusText {
+    color: white;
+}
+
+.hrStyle {
+    margin: 8px 0;
+    border: 1px solid #717171;
+    height: 1px;
+    border: none;
+}
+
+.contextMessages {
+    height: 600px;
+    overflow-y: auto;
+}
