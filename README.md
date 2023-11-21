@@ -116,17 +116,17 @@ Building upon the fundamental functionalities mentioned earlier, the system boas
 ## UI Screenshots:
 <p>
   <figure style="text-align: center">
-    <img src="images/home_interface.png" width="800">
     <figcaption>Home Interface</figcaption>
+    <img src="images/home_interface.png" width="800">
   </figure>
 
   <figure style="text-align: center">
-    <img src="images/tickets_interface.png" width="800" alt="Tickets Interface">
     <figcaption>Tickets Interface</figcaption>
+    <img src="images/tickets_interface.png" width="800" alt="Tickets Interface">
   </figure>
 
   <figure style="text-align: center">
-    <img src="images/dialog.png" width="800" alt="Dialog Interface">
     <figcaption>Dialog Interface</figcaption>
+    <img src="images/dialog.png" width="800" alt="Dialog Interface">
   </figure>
 </p>
