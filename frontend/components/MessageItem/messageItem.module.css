@@ -1,0 +1,23 @@
+.message-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.avatar {
+    margin-right: 8px;
+}
+
+.nickname {
+    font-weight: bold;
+}
+
+.timestamp {
+    font-size: 0.8rem;
+    color: #757575;
+    margin-left: 8px;
+}
+
+.content {
+    color: #ffffff;
+}
